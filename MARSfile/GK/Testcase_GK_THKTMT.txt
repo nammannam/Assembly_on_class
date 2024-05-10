@@ -1,0 +1,40 @@
+B22:
+https://upload.wikimedia.org/wikipedia/commons/1/1b/ASCII-Table-wide.svg
+
+
+adjourned (true)
+
+acegikmonljhfdb (true)
+
+acegikljhfdb (true)
+
+
+
+settled (false)
+
+acegikmonajhfdb (false)
+
+acegikmanljhfdb (false)
+
+- Ver4  (Input được cả string) :
+
+adjourned adjourned adjourned adjourned adjourned (TRUE x5)
+
+adjourned acegikljhfdb acegikmanljhfdb acegikmonljhfdb (TRUE TRUE FALSE TRUE)
+
+B23:
+Code C:
+https://zaidonglao.blogspot.com/2018/11/thuat-toan-tinh-to-hop.html
+
+
+Input n: 5
+Input k: 2
+C(k,n) = 10
+
+Input n: 12
+Input k: 3
+C(k,n) = 220
+
+Input n: 20
+Input k: 15
+C(k,n) = 15504
